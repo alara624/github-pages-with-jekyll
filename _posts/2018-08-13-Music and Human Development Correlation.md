@@ -1,3 +1,7 @@
+---
+title: "Music and Mind"
+date: 2018-08-13
+---
 **Music and Human Development Correlation**
 
 Music helps seal the bond between the body and mind.
